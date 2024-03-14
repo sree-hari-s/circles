@@ -5,12 +5,12 @@
 <hr>
 <br>
 <p align="center">
-<a href="https://urchin-app-aiid2.ondigitalocean.app"><strong>Circles</strong></a> |
 <a href="https://discord.com/invite/QBDw4UrGXX">Discord</a> |
 <a href="https://twitch.tv/nfoert">Twitch</a> |
 <a href="https://youtube.com/@nfoert">YouTube</a>
 </p>
-<p align="center"><strong>Production server now avaliable!</strong></p>
+<hr>
+<p align="center"><strong>The production server has now been shut down, I haven't worked on this project in a while and the scope of it is a lot larger than I was anticipating. If interest in this project comes back I will consider working on it again, but for now development is no longer continuing. Thank you to all the contributors who's helped develop this project.</strong></p>
 <hr>
 
 
